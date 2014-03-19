@@ -1,0 +1,1 @@
+This is the git repository for [jollyroger.net.nz](http://jollyroger.net.nz/) hosted on Github Pages
