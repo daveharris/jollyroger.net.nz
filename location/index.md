@@ -14,9 +14,9 @@ From High Street, turn on Waikawa Road, continue straight for 3.5km, turn left o
 </div>
 
 <figure>
-  <img src="images/deck.jpg"/>
+  <img src="/images/deck.jpg"/>
 </figure>
 
 <figure>
-  <img src="images/waterfront_view.jpg" />
+  <img src="/images/waterfront_view.jpg" />
 </figure>
