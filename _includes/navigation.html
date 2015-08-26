@@ -1,4 +1,4 @@
-<div class="navigation-wrapper">
+<div class="navigation-wrapper no-js">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
 	        {% for link in site.links %}
@@ -7,7 +7,7 @@
 					<a href="{{ link.url }}">{{ link.title }}</a>
 				{% else %}
 					<a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
-				{% endif %} 
+				{% endif %}
 			</li>
 	        {% endfor %}
 	        {% if site.search %}<li class="dosearch"><i class="icon-search"></i> Search</li>{% endif %}

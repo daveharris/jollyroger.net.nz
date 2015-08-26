@@ -17,7 +17,7 @@ body {
 	ul {
 		display: inline-block;
 		vertical-align: top;
-		margin: 0 0 50px;
+		margin: 0 0 10px;
 		padding: 4px 20px;
 		background-color: @black;
 		.rounded(0 0 10px 10px);
@@ -73,8 +73,8 @@ body {
 }
 .no-js #site-nav {
 	display: block;
-}	
-#nav-toggle { 
+}
+#nav-toggle {
 	z-index: 9999;
 	display: block;
 	vertical-align: top;
@@ -90,11 +90,7 @@ body {
 // Masthead
 // --------------------------------------------------
 .masthead {
-	margin-top: 40px;
 	.clearfix();
-	@media @medium {
-		margin-top: 0;
-	}
 	.wrap {
 		text-align: center;
 		max-width: 27.5em;
@@ -130,9 +126,9 @@ body {
 			.rounded(150px);
 		}
 		@media @large {
-			width: 200px;
-			height: 200px;
-			.rounded(200px);
+			width: 175px;
+			height: 175px;
+			.rounded(175px);
 		}
 	}
 }
@@ -145,7 +141,7 @@ body {
     -webkit-animation-delay: .75s;
     -moz-animation-delay: .75s;
     -o-animation-delay: .75s;
-    animation-delay: .75s;	
+    animation-delay: .75s;
 	a { color: @black; }
 }
 .site-description {
@@ -179,13 +175,13 @@ body {
 	border-bottom: 1px solid fade(@black,10);
 }
 .entry-feature-image {
-	margin: 20px 0 0;
+	margin: -35px 0 0;
 	width: 100%;
 	@media @medium {
-		margin-top: -75px;
+		margin-top: -50px;
 	}
 	@media @large {
-		margin-top: -145px;
+		margin-top: -60px;
 	}
 }
 .entry-header {
@@ -363,13 +359,13 @@ span + .entry-title {
 		.font-rem(14);
 		line-height: 2.5;
 	}
-	a { 
+	a {
 		padding: 4px 6px;
 		margin: 2px;
 		background-color: lighten(@black, 90);
 		.rounded(4px);
 		text-decoration: none;
-		span { 
+		span {
 			vertical-align: super;
 			.font-rem(10);
 		}
