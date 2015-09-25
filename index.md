@@ -11,8 +11,4 @@ Enjoy a mouth-watering array of food options - from salad to fresh Blue Cod to s
 
 Call us now on (03) 573 6585 to book a table for dinner.
 
-### Win a free meal for 2 including a drink every month!
-
-Upload a photo to the [Jolly Roger Facebook page](https://www.facebook.com/JollyRogerBarCafe), tag yourself and go into the draw to win a free meal for 2 with a glass of wine or handle of beer! Someone wins every month!
-
 <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FJollyRogerBarCafe&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px;" allowTransparency="true"></iframe>
